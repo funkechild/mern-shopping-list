@@ -10,5 +10,5 @@ Installation Instructions
 6. cd into root Directory
 7. Run command "npm run dev"
 
-Frontend (React) loads on localhost port 3000
-Backend (Express / Node / Mongo) loads on localhost port 5000
+- Frontend (React) loads on localhost port 3000
+- Backend (Express / Node / Mongo) loads on localhost port 5000
